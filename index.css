@@ -52,7 +52,7 @@ main{
 
 .nav-masthead .nav-link:hover,
 .nav-masthead .nav-link:focus {
-  color: #070505;
+  color: #fcf7f7;
   border-bottom-color: rgba(255, 255, 255, .25);
 }
 
@@ -70,6 +70,18 @@ main{
   -webkit-user-select: none;
   -moz-user-select: none;
   user-select: none;
+}
+.lead{
+  color:black;
+}
+h2{
+  color: blanchedalmond;
+}
+h1{
+  color:brown;
+}
+p{
+  color:rgb(54, 46, 46);
 }
 
 @media (min-width: 768px) {
